@@ -47,4 +47,4 @@ E D A
 G F D A
 X A
 
-> Defina en ruby la función `procesar_archivo()` que reciba la url del archivo, lo procese y retorne la salida correspondiente.
+> Defina en ruby la función `procesar_archivo(url)` que reciba la url del archivo, lo procese y retorne la salida correspondiente.
