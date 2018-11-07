@@ -14,14 +14,19 @@ Moderno Nacional Rock Género
 Viejito Nacional Rock Género
 
 Su programa debe recibir por parámetro el nombre de un file que tendrá una línea por cada
-relación padre hijo, es decir que el árbol anterior vendría en un archivo de la siguiente manera
+relación padre hijo, es decir que el árbol anterior vendría en un archivo de la siguiente manera:
+
+```
 Genero Rock
 Genero Jazz
 Rock Nacional
 Rock Extranjero
 Nacional Viejito
 Nacional Moderno
-Puede asumir que las palabras no tienen espacios y que hay por lo menos una línea
+```
+
+Puede asumir que las palabras no tienen espacios y que hay por lo menos una línea:
+
 Otro ejemplo
 A -> X
   -> B -> C
