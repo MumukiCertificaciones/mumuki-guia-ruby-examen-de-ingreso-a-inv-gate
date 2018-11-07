@@ -4,7 +4,7 @@ describe 'tests' do
     expect(procesar_archivo("archivo.txt")).to eq "a"
   end
   it 'test2' do
-    File.open("archivo.txt", "w") {|f| f.write("") }
+    File.open("archivo.txt", "w") {|f| f.write("a") }
     expect(procesar_archivo("archivo.txt")).to eq "a"
   end
 end
