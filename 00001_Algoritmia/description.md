@@ -13,7 +13,7 @@ Jazz Genero
 Moderno Nacional Rock Género
 Viejito Nacional Rock Género
 
-Su programa debe recibir por parámetro el nombre de un file que tendrá una línea por cada
+Su programa debe recibir por parámetro el nombre de un _file_ que tendrá una línea por cada
 relación padre hijo, es decir que el árbol anterior vendría en un archivo de la siguiente manera:
 
 ```
