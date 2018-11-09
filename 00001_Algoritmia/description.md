@@ -7,11 +7,12 @@ Aquí la categoría género tiene dos categorías hijas: Rock y Jazz. Rock tiene
 y Extranjero. Nacional, tiene 2 subcategorías Viejito y Moderno.
 Se pide obtener todos los caminos de las categorías hoja (es decir, las que no tienen ninguna
 categoría hija) hasta las categorías raices, ordenados alfabéticamente.
-En este ejemplo, se espera que se devuelvan
-Extranjero Rock Genero
-Jazz Genero
-Moderno Nacional Rock Género
-Viejito Nacional Rock Género
+En este ejemplo, se espera que se devuelvan:
+
+* Extranjero Rock Genero
+* Jazz Genero
+* Moderno Nacional Rock Género
+* Viejito Nacional Rock Género
 
 Su programa debe recibir por parámetro el nombre de un _file_ que tendrá una línea por cada
 relación padre hijo, es decir que el árbol anterior vendría en un archivo de la siguiente manera:
