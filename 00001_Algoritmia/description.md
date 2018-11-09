@@ -35,6 +35,8 @@ A -> X
        -> F -> G
 
 podría venir en un archivo como:
+
+``` 
 A B
 B C
 A D
@@ -42,10 +44,15 @@ D E
 D F
 F G
 A X
+```
+
 y la salida esperada es:
+
+``` 
 C B A
 E D A
 G F D A
 X A
+```
 
 > Defina en ruby la función `procesar_archivo(url)` que reciba la url del archivo, lo procese y retorne la salida correspondiente.
