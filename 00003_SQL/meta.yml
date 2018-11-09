@@ -1,0 +1,10 @@
+---
+tags: []
+layout: input_bottom
+editor: code
+type: problem
+extra_visible: false
+language: sqlite
+manual_evaluation: false
+choices: []
+name: SQL
