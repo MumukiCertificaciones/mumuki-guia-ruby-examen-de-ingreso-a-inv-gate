@@ -16,7 +16,7 @@ Dada la siguiente tabla:
   }'>
 </div>
 
-> Escribí una consulta SQL que te permita obtener el cliente con mayor monto para cada ciudad. Si hay más de uno, solo dar el primero ordenando los nombres de manera alfabética. La salida debe estar ordenada por nombre de ciudad.
+> Escribí una consulta SQL que te permita obtener el cliente con mayor monto para cada ciudad. Si hay más de uno, solo dar el primero ordenando los nombres de manera alfabética. La salida debe estar ordenada por nombre de ciudad. El nombre de la Tabla es `compradores`.
 
 Algunos ejemplos:
 
