@@ -1,6 +1,6 @@
-Deseamos modelar un Tamagotchi (Mascota virtual)
+Deseamos modelar un [Tamagotchi](https://es.wikipedia.org/wiki/Tamagotchi) (Mascota virtual).
 
-La mascota tiene un nombre y una especie, cada especie teme a otras especies (tenga en cuenta que una especie no puede temerse a sí misma, porque sino se extinguiría).
+Cada mascota tiene un nombre y una especie que le teme a otras especies (tenga en cuenta que una especie no puede temerse a sí misma, porque sino se extinguiría).
 
 A los tamagotchis se les puede pedir que hagan ruido, se muevan, despertarlos o mandarlo a dormir.
 
