@@ -69,32 +69,3 @@ lanus carlos
 olivos tito
 quilmes fede (porque fede es anterior a pepe alfabeticamente)
 ```
-
-_Ejemplo 3:_
-
-Dados los siguientes datos:
-
-<div
-  class='mu-sql-table'
-  data-name='clientes'
-  data-columns='["cliente", "ciudad", "monto"]'
-  data-rows='[
-    ["toto", "olivos", 8],
-    ["pepe", "olivos", 10],
-    ["fede", "quilmes", 6],
-    ["pepe", "quilmes", 15],
-    ["tito", "olivos", 14],
-    ["fede", "quilmes", 6],
-    ["carlos", "lanus", 3],
-    ["fede", "quilmes", 6],
-    ["toto", "olivos", 7]
-  ]'>
-</div>
-
-La respuesta será:
-
-``` 
-lanus carlos
-olivos toto
-quilmes fede
-```
