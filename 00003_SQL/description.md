@@ -41,8 +41,8 @@ La respuesta será:
 
 ``` 
 lanus carlos
-quilmes pepe
 olivos tito
+quilmes pepe
 ```
 
 _Ejemplo 2:_
@@ -66,8 +66,8 @@ La respuesta será:
 
 ``` 
 lanus carlos
-quilmes fede (porque fede es anterior a pepe alfabeticamente)
 olivos tito
+quilmes fede (porque fede es anterior a pepe alfabeticamente)
 ```
 
 _Ejemplo 3:_
@@ -95,6 +95,6 @@ La respuesta será:
 
 ``` 
 lanus carlos
-quilmes fede
 olivos toto
+quilmes fede
 ```
